@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Sanchit Bishwakarma",
     description:
-      "Showcasing innovative software solutions and technical expertise. Explore my latest projects and contributions.",
+      "Developer portfolio — projects, contributions, YouTube channel, and platforms.",
     type: "website",
     url: "https://sanchitbishwakarma.com.np",
     images: [
